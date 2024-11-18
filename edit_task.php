@@ -81,7 +81,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 </head>
 <body>
     <div class="edit-container">
-        <h2>Edit Task</h2>
+        <h2>Modify Task</h2>
 
         <!-- Edit task form -->
         <form method="POST" action="edit_task.php">
